@@ -1,9 +1,0 @@
-0
-Script started on 2023-02-13 21:30:23+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="27"]
-[?2004h]0;vagrant@ubuntu-focal: ~/alx-system_engineering-devops/0x02-shell_redirections[01;32mvagrant@ubuntu-focal[00m:[01;34m~/alx-system_engineering-devops/0x02-shell_redirections[00m$ ls 
-[?2004l[0m[01;32m0-hello_world[0m      [01;32m2-hellofile[0m  [01;32m4-lastlines[0m   [01;32m6-third_line[0m  [01;32m8-cwd_state[0m            README.md
-[01;32m1-confused_smiley[0m  [01;32m3-twofiles[0m   [01;32m5-firstlines[0m  [01;32m7-file[0m        [01;32m9-duplicate_last_line[0m
-[?2004h]0;vagrant@ubuntu-focal: ~/alx-system_engineering-devops/0x02-shell_redirections[01;32mvagrant@ubuntu-focal[00m:[01;34m~/alx-system_engineering-devops/0x02-shell_redirections[00m$ exir[Kt
-[?2004lexit
-
-Script done on 2023-02-13 21:30:36+00:00 [COMMAND_EXIT_CODE="0"]
