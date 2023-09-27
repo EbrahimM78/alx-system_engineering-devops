@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
+
 # Only use ssh single-character flags
 # You cannot use -l
 # You do not need to handle the case of a private key protected by a passphrase
-ssh ubuntu@100.25.197.31 -i ~/.ssh/school
+
+ssh -i ~/.ssh/school ubuntu@100.25.197.31
