@@ -1,0 +1,1 @@
+This file Contians the link to the written artile for the activity
